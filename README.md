@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Computer Science Engineering ,AI & Cyber security project**
 
-- 📝 I regularly write articles on [https://medium.com/feed/@lavanya.agre.cyb](https://medium.com/feed/@lavanya.agre.cyb)
+- 📝 I regularly write articles on [Medium](https://medium.com/@lavanya.agre.cyb)
 
 - 📫 How to reach me **lavanyaagre1234@gmail.com**
 
