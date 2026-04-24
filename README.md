@@ -7,7 +7,7 @@ Hands-on SOC projects • AI-integrated security workflows • CTF player
 
 ---
 
-## 🚀 Quick Access
+##  Quick Access
 
 | Platform | Link |
 |---------|------|
@@ -27,7 +27,7 @@ Hands-on SOC projects • AI-integrated security workflows • CTF player
 
 ---
 
-## ## 🧠 Certifications
+## 🧠 Certifications
 
 ### 🔵 Blue Team / Security Operations
 - Certified Blue Team Practitioner (CBTP - SecOps)  
