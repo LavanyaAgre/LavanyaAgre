@@ -27,17 +27,25 @@ Hands-on SOC projects • AI-integrated security workflows • CTF player
 
 ---
 
-## 🧠 Certifications
+## ## 🧠 Certifications
 
-- Certified Ethical Hacker V13 (EC-Council)  
-- CRTP (Altered Security)  
-- Web RTA  
+### 🔵 Blue Team / Security Operations
 - Certified Blue Team Practitioner (CBTP - SecOps)  
 - Certified Network Security Practitioner (CNSP - SecOps)  
-- Certified AppSec Practitioner (CAP - SecOps)  
-- Certified AppSec Pentester (CAPen - SecOps)  
 - Foundations of Cybersecurity (Google)  
 
+---
+
+### 🔴 Application Security (AppSec)
+- Certified AppSec Practitioner (CAP - SecOps)  
+- Certified AppSec Pentester (CAPen - SecOps)  
+- Web RTA  
+
+---
+
+### ⚫ Core / Offensive Security
+- Certified Ethical Hacker V13 (EC-Council)  
+- CRTP (Altered Security)  
 ---
 
 ## 🏆 CTF & Achievements
